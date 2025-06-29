@@ -1,4 +1,4 @@
-'''
+```java
 int[] parent;
 int[] size;
 int[] rank;
@@ -58,6 +58,6 @@ public void unionbyRank(int a, int b){
         rank[a]++;
     }
 }
-'''
+```
 
 
