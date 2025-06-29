@@ -1,5 +1,5 @@
 ## Pengertian Hash Function?
-Hash Function adalah **fungsi yang mengubah data** (seperti string, angka, objek) menjadi sebuah **angka unik tetap** yang disebut *hash*.
+Hash Function adalah **fungsi yang mengubah data** (seperti string, angka, objek) menjadi sebuah **string unik tetap** yang disebut *hash*.
 
 Biasanya digunakan untuk **menentukan posisi data** di dalam struktur data seperti array, agar proses pencarian dan penyimpanan jadi **lebih cepat**.
 
